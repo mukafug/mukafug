@@ -8,7 +8,8 @@
 <img align="right" alt="Bored Oguri Cap" width="400" src="gif2.gif">
 
 <p align="left">
-🔭 I’m currently working as an <b>Art Director</b> for the game <a href="https://ladahitamcreation.itch.io/fondness-in-reveries" target="_blank">Fondness in Reveries</a> by LadaHitamCreation.
+🔭 I’m currently working as an <b>Art Director</b> for the game<br>
+<a href="https://ladahitamcreation.itch.io/fondness-in-reveries" target="_blank">Fondness in Reveries</a> by LadaHitamCreation.
 <br>
 <br>
 🎨 You can check out my portfolio on <a href="https://www.behance.net/gallery/226611601/Mystic-Market-Tycoon" target="_blank"><b>Behance</b></a>.
@@ -17,13 +18,17 @@
 🎮 Or see our team's game projects on <a href="https://ladahitamcreation.itch.io/" target="_blank"><b>Itch.io</b></a>.
 </p>
 
+
 <br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://www.instagram.com/mkafu.st" target="_blank"><img align="center" src="https://raw.githubusercontent.com/shgysk8zer0/logos/master/instagram.svg" alt="mkafu.st" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mukafust/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/shgysk8zer0/logos/master/linkedin.svg" alt="mukafust" height="30" width="40" /></a>
 <a href="https://www.behance.net/gallery/226611601/Mystic-Market-Tycoon" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="behance portfolio" height="30" width="40" /></a>
 <a href="https://ladahitamcreation.itch.io/" target="_blank"><img align="center" src="https://static.itch.io/images/itchio-logo-white.svg" alt="itch.io page" height="30" width="30" /></a>
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
