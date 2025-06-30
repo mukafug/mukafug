@@ -26,7 +26,7 @@
 <a href="https://www.instagram.com/mkafu.st" target="_blank"><img align="center" src="https://raw.githubusercontent.com/shgysk8zer0/logos/master/instagram.svg" alt="mkafu.st" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/mukafust/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/shgysk8zer0/logos/master/linkedin.svg" alt="mukafust" height="30" width="40" /></a>
 <a href="https://www.behance.net/gallery/226611601/Mystic-Market-Tycoon" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="behance portfolio" height="30" width="40" /></a>
-<a href="https://ladahitamcreation.itch.io/" target="_blank"><img align="center" src="https://static.itch.io/images/itchio-logo-white.svg" alt="itch.io page" height="30" width="30" /></a>
+<a href="https://ladahitamcreation.itch.io/" target="_blank"><img align="center" src="https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/blob/master/Papirus/64x64/apps/itch.svg" alt="itch.io page" height="30" width="30" /></a>
 </p>
 
 
